@@ -29,7 +29,3 @@ This is a personal learning project that demonstrates a very simple substitution
 ## Files
 
 - `encryption_program.py` — the simple encrypter/decrypter script.
-
-## License
-
-This repository is a personal learning project. Use at your own risk. If you'd like a formal license added, tell me which one (e.g., MIT, Apache-2.0) and I can add it.
